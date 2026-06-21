@@ -1,7 +1,7 @@
 # Heart Disease Risk Predication Project
 
 ## Overview 
-This project is part of the final assignment of IronHack Data Analytics bootcamp, for the Data Science track. The objective is to predict the risk of heart disease in patients using various machine learning classifiers and to evaluate their performance. Given the critical nature of predicting heart disease, the focus is on models that provide high recall for identifying at-risk patients.
+The objective of this project is to predict the risk of heart disease in patients using various machine learning classifiers and to evaluate their performance. Given the critical nature of predicting heart disease, the focus is on models that provide high recall for identifying at-risk patients.
 
 ## Dataset
 The dataset used for this project is titled heart_disease.csv and it is sourced from [Kaggle](https://www.kaggle.com/datasets/mirzahasnine/heart-disease-dataset?select=heart_disease.csv). It contains various features related to patients' health conditions and a target variable indicating the presence of heart disease.
